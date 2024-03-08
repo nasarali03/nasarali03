@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **nasarali1805+ram@gmail.com**
 
