@@ -40,4 +40,4 @@
   <br/>
 </a>
 
-![Nasar Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=nasarali03&custom_title=Nasar%Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Nasar Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=nasarali03&custom_title=Nasar%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
