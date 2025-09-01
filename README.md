@@ -19,9 +19,7 @@
 <a href="https://www.leetcode.com/nasarali1805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasarali1805" height="30" width="40" /></a>
 </p>>
 
-## Skill Set:
-
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
 
 ### Languages
 
